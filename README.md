@@ -1,0 +1,2 @@
+# barang-aset
+ 
