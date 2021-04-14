@@ -1,0 +1,238 @@
+[24-Nov-2020 10:23:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pgnh6835/public_html/barang-aset/config/db.php on line 15
+[24-Nov-2020 10:23:32 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/pgnh6835/public_html/barang-aset/config/db.php on line 16
+[24-Nov-2020 10:23:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:35
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 35
+[24-Nov-2020 10:23:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pgnh6835/public_html/barang-aset/config/db.php on line 15
+[24-Nov-2020 10:23:37 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/pgnh6835/public_html/barang-aset/config/db.php on line 16
+[24-Nov-2020 10:23:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:35
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 35
+[24-Nov-2020 10:23:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pgnh6835/public_html/barang-aset/config/db.php on line 15
+[24-Nov-2020 10:23:41 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/pgnh6835/public_html/barang-aset/config/db.php on line 16
+[24-Nov-2020 10:23:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:35
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 35
+[24-Nov-2020 10:25:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 10:29:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 10:29:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 10:48:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 10:48:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 10:48:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 10:48:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 10:48:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:00:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(5): db->manual_query('select * from k...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:00:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(5): db->manual_query('select * from k...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:00:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(5): db->manual_query('select * from k...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:00:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(5): db->manual_query('select * from k...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:01:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:01:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:01:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:01:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:01:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:01:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:01:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 11:02:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 13:21:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(81): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[24-Nov-2020 14:28:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[24-Nov-2020 14:28:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[24-Nov-2020 14:28:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[24-Nov-2020 14:28:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[24-Nov-2020 14:28:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[24-Nov-2020 14:28:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[24-Nov-2020 14:32:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[24-Nov-2020 14:32:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[26-Nov-2020 08:15:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[26-Nov-2020 08:15:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[26-Nov-2020 08:16:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[26-Nov-2020 08:16:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[26-Nov-2020 09:32:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[26-Nov-2020 09:32:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[26-Nov-2020 09:46:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 33
+[26-Nov-2020 09:46:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 56
+[14-Jan-2021 15:04:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 295
+[14-Jan-2021 15:05:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 295
+[14-Jan-2021 15:07:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 295
+[14-Jan-2021 15:21:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 295
+[14-Jan-2021 15:48:42 Asia/Jakarta] PHP Warning:  require_once(content/kelola_brarang_aset.php): failed to open stream: No such file or directory in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:48:42 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'content/kelola_brarang_aset.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:04 Asia/Jakarta] PHP Warning:  require_once(content/kelola_brarang_aset.php): failed to open stream: No such file or directory in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:04 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'content/kelola_brarang_aset.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:05 Asia/Jakarta] PHP Warning:  require_once(content/kelola_brarang_aset.php): failed to open stream: No such file or directory in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:05 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'content/kelola_brarang_aset.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:06 Asia/Jakarta] PHP Warning:  require_once(content/kelola_brarang_aset.php): failed to open stream: No such file or directory in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:06 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'content/kelola_brarang_aset.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:10 Asia/Jakarta] PHP Warning:  require_once(content/kelola_brarang_aset.php): failed to open stream: No such file or directory in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:50:10 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'content/kelola_brarang_aset.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/pgnh6835/public_html/barang-aset/index.php on line 90
+[14-Jan-2021 15:51:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:51:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:51:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(4): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:53:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(20): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:54:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(20): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:54:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(20): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:54:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(20): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:55:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(20): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[14-Jan-2021 15:55:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/pgnh6835/public_html/barang-aset/config/db.php:36
+Stack trace:
+#0 /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php(20): db->manual_query('select * from a...')
+#1 /home/pgnh6835/public_html/barang-aset/index.php(90): require_once('/home/pgnh6835/...')
+#2 {main}
+  thrown in /home/pgnh6835/public_html/barang-aset/config/db.php on line 36
+[18-Jan-2021 08:01:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 51
+[18-Jan-2021 08:01:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 75
+[18-Jan-2021 08:01:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 51
+[18-Jan-2021 08:01:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/pgnh6835/public_html/barang-aset/content/kelola_barang_aset.php on line 75
